@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+.backround{background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);}
+p,h1, h2, h3, h4, h5, h6, a, ul, ol{padding:0;margin: 0;box-sizing: border-box;text-decoration: none;list-style: none;}
+body{background-color: white;}
+.container{width: 1140px;margin: 0 auto;}
+
+.container-fluid{width:100%;margin: 0 auto;}
+
+.col-1{width:8.33%}
+
+.col-2{width:12.5%}
+
+.col-3{width:25%;}
+
+.col-4{width:33.33%}
+
+.col-5{width:41.66%}
+
+.col-6{width:50%}
+
+.col-7{width:58.33%}
+
+.col-8{width:66.66%}
+
+.col-9{width:75%}
+
+.col-10{width:83.33%}
+
+.col-11{width:91.66%}
+
+.col-12{width:100%}
+
+[class*="col-"]{padding:0 15px;float:left;box-sizing: border-box;}
+
+.clear{clear: both;}
+
+.text-center{text-align: center;}
+
+.text-right{text-align: right;}
+
+.mt-15{margin-top:5px;}
+
+.mt-30{margin-top: 30px;}
+
+.mt-50{margin-top: 50px}
+
+.mb-15{margin-bottom: 15px;}
+
+.mb-30{margin-bottom: 30px;}
+
+.mb-50{margin-bottom: 50px}
+
+.my-15{margin: 15px 0;}
